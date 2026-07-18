@@ -2,7 +2,6 @@
 
 🚀 I will be Fullstack Developer | 🎓 Student Informatics Student | ☕ Coffee Enthusiast
 
-- 🔭 I’m currently working on [Nama Project / Perusahaan Lu]
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, and Web Development**
