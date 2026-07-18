@@ -24,9 +24,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/t.n.r.p.w210/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](tamam.niam.rpw@gmail.com)
 
----
-
-### 📊 Grafik Aktivitas Ngoding Gw
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=react-dark&hide_border=true&area=true&custom_title=Grafik%20Commit%20Harian" alt="Grafik Aktivitas" />
-</p>
