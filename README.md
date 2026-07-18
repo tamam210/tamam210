@@ -1,6 +1,6 @@
 ### Hi there, I'm [TAMAM NI'AMILLAH RAMDHAN PUTRA WIDYANA] 👋
 
-🚀 I will be Fullstack Developer | 🎓 Student Informatics Student | ☕ Coffee Enthusiast
+🚀 I will be Fullstack Developer | 🎓 Informatics Student | ☕ Coffee Enthusiast
 
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
