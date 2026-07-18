@@ -18,22 +18,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📊 Seberapa Rajin Gw Ngoding?
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=nightowl" />
-</p>
-
----
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamam-niam-958518423/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/t.n.r.p.w210/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](tamam.niam.rpw@gmail.com)
+
+---
+
+### 📊 Grafik Aktivitas Ngoding Gw
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=react-dark&hide_border=true&area=true&custom_title=Grafik%20Commit%20Harian" alt="Grafik Aktivitas" />
+</p>
